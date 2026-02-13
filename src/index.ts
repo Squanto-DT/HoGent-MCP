@@ -47,7 +47,7 @@ server.registerTool(
   "student_get_restaurant_menu",
   {
     title: "Get Restaurant Menu",
-    description: `Haal het dagmenu op voor een KU Leuven restaurant.
+    description: `Haal het dagmenu op voor een HoGent restaurant.
 
 Beschikbare restaurants: alma, gasthuisberg, camino.
 Retourneert het menu met prijzen.

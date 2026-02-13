@@ -1,6 +1,6 @@
 # Student Info MCP Server
 
-MCP server voor KU Leuven campus info — restaurants, faciliteiten, etc.  
+MCP server HoGent campus info — restaurants, faciliteiten, etc.  
 Gebouwd om te connecteren met een M365 Agents Toolkit declarative agent.
 
 ## Quick Start
